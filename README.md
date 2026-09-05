@@ -27,8 +27,8 @@ This project focuses on:
 
 The notebook works with multiple dental X-ray and segmentation-mask sources:
 
-* **TUFTS Dental Database**
-* **Children's Dental Panoramic Radiographs Dataset**
+* **TUFTS Dental Database** https://www.kaggle.com/datasets/tommyngx/the-tufts-dental-database-2022
+* **Children's Dental Panoramic Radiographs Dataset**  https://www.kaggle.com/datasets/truthisneverlinear/childrens-dental-panoramic-radiographs-dataset
 
   * Training images
   * Test images
