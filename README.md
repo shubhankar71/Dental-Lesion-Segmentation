@@ -376,14 +376,6 @@ The lesion-count distribution ranges from zero lesions to images containing mult
 
 ---
 
-## 👨‍💻 Author
-
-**Musudi Shubhankar Rao**
-
-B.Tech — Computer Science & Engineering
-
----
-
 ## 📜 License
 
 This project is intended for educational and research purposes. Please review the original dataset licenses and terms before using the datasets commercially.
